@@ -780,6 +780,9 @@ h5 {
 		margin-right: 3rem !important;
 	}
 }
+.mx-auto {
+margin-inline: auto !important;
+}
 .mx-0 {
 	margin-inline: 0rem !important;
 }

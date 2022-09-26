@@ -19,7 +19,7 @@ html, body {
 }
 
 .container-element {
-  width: min(100%, 1250px);
+  width: min(100%, 1400px);
   margin-inline: auto;
   position: relative;
 }

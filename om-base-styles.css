@@ -1696,3 +1696,9 @@ margin-inline: auto !important;
 		grid-row-gap: 16px;
 	}
 }
+
+.bg-image-center {
+background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}	
